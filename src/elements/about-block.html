@@ -1,0 +1,144 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+<link rel="import" href="../../bower_components/paper-button/paper-button.html">
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="shared-animations.html">
+<link rel="import" href="hoverboard-icons.html">
+
+<dom-module id="about-block">
+  <template>
+    <style is="custom-style" include="shared-styles flex flex-alignment flex-reverse"></style>
+
+    <style>
+      :host {
+        display: block;
+      }
+
+      .container {
+        padding-top: 64px;
+      }
+
+      .content {
+        display: grid;
+        grid-gap: 32px;
+        grid-template-columns: 1fr;
+      }
+
+      .statistics-block {
+        width: 100%;
+        display: grid;
+        grid-gap: 32px 16px;
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .numbers {
+        font-size: 40px;
+      }
+
+      .numbers::after {
+        content: "";
+        display: block;
+        height: 2px;
+        width: 64px;
+        background-color: var(--default-primary-color);
+      }
+
+      .label {
+        margin-top: 4px;
+      }
+
+      @media (min-width: 640px) {
+        .content {
+          grid-gap: 64px;
+          grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        }
+
+        .statistics-block {
+          grid-gap: 32px;
+        }
+
+        .numbers {
+          font-size: 56px;
+        }
+      }
+
+    </style>
+
+    <div class="container">
+
+      <div class="content">
+
+        <div>
+          <h1 class="container-title">About GDG DevFest 2018 Sofia</h1>
+          <h2>Conference:</h2>
+          <p>GDG DevFest Sofia brings together the world class experts in Android, Web and Cloud technologies to Sofia, Bulgaria a day full of sessions. The largest Google tech conference worldwide is organized and brought to Bulgaria by GDG Sofia & Women Techmakers, TechHuddle, DataArt & Qualifast Ltd.</p>
+
+          <h2>Workshops:</h2>
+          <p>Curious to develop Chatbots? Interested in Google Assistant programming? Join our hands-on workshop led by the best Bulgarian IT academies.</p>
+
+          <h2>Socializing:</h2>
+          <p>Join the afterparty with free drinks & entertainment! Relax after the sessions, win some prizes at the raffle, and socialize with peers from the developer community.</p>
+
+          <a
+            href="https://www.youtube.com/user/GoogleDevelopers"
+            ga-on="click"
+            ga-event-category="video"
+            ga-event-action="watch"
+            ga-event-label="Explore GDG content"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <paper-button class="animated icon-right">
+              <span class="cta-label">Explore GDG content</span>
+              <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
+            </paper-button>
+          </a>
+        </div>
+
+        <div class="statistics-block">
+
+          <div class="item">
+            <div class="numbers">250 +</div>
+            <div class="label">attendees from anywhere</div>
+          </div>
+
+          <div class="item">
+            <div class="numbers">8+</div>
+            <div class="label">hours around web, mobile and cloud technology</div>
+          </div>
+
+          <div class="item">
+            <div class="numbers">10+</div>
+            <div class="label">speakers from Bulgaria & all over the world </div>
+          </div>
+
+          <div class="item">
+            <div class="numbers">1</div>
+            <div class="label">track plus several parallel workshops</div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </template>
+
+  <script>
+    class AboutBlock extends ReduxMixin(Polymer.Element) {
+      static get is() {
+        return 'about-block';
+      }
+
+      _playVideo() {
+        uiActions.toggleVideoDialog({
+          title: '{$  aboutBlock.callToAction.howItWas.title $}',
+          youtubeId: '{$  aboutBlock.callToAction.howItWas.youtubeId $}',
+          disableControls: true,
+          opened: true,
+        });
+      }
+    }
+
+    window.customElements.define(AboutBlock.is, AboutBlock);
+  </script>
+</dom-module>

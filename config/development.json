@@ -1,0 +1,16 @@
+{
+  "basepath": "/",
+  "url": "https://event-22212.firebaseio.com",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyCXd1-cGg0n-EKy1sfelef3emldOCOKrXc",
+    "authDomain": "event-22212.firebaseapp.com",
+    "databaseURL": "https://event-22212.firebaseio.com",
+    "projectId": "event-22212",
+    "storageBucket": "event-22212.appspot.com",
+    "messagingSenderId": "574721004930"
+
+
+  },
+  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+}
