@@ -41,10 +41,6 @@ General Admission: €59
 
 Conditions: 20th October - 17th November or until tickets are sold out
 
-#### **Communitee Tickets**
-
-We offer a limited number of tickets at a discounted rate for partnering communities. In order to apply for those, please contact us at [gdgsofia@gmail.com ](mailto:gdgsofia@gmail.com ) and tell us about your community. These tickets are limited in number, and will be distributed among the first few relevant communities that contacted us.
-
 #### **Press Tickets**
 
 We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this [FORM]( https://goo.gl/forms/SmKHuksRw8sb0eoB2). If you have additional questions, please email [gdgsofia@gmail.com](mailto:gdgsofia@gmail.com ) for more information. Please note that we’ll have a limited number of press passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass. Our team will contact you if we’re able to accommodate your request.
