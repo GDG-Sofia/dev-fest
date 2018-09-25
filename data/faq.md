@@ -22,47 +22,32 @@ If you’re unable to attend DevFest in-person, you can still be part of the mag
 
 ### Drawing Dates
 
-The window to buy a ticket will be opened until 6PM GMT+2 on November 17th 2018, or earlier if the tickets are sold out. If the ticket was bought after November 7th registered participants won’t get printed badge (their names will be written on the badge by marker). To buy a ticket [follow the link](https://www.eventbrite.com/e/devfest-2018-sofia-tickets-50222983295), select required ticket type, fill in the required information and pay for it.
+The window to buy a ticket will be opened until 6PM on November 17th 2018, or earlier if the tickets are sold out. If the ticket was bought after November 7th registered participants won’t get printed badge (their names will be written on the badge by marker). To buy a ticket [follow the link](https://www.eventbrite.com/e/devfest-2018-sofia-tickets-50222983295), select required ticket type, fill in the required information and pay for it.
 
-Once you've successfully payed for the ticket you’ll reach a confirmation screen and receive an email with the ticket. Please don’t forget to download it on your device or print it, as it’s required for entrance.
+Once you've successfully paid for the ticket you’ll reach a confirmation screen and receive an email with the ticket. Please don’t forget to download it on your device or print it, as it’s required for entrance.
 
   
 ### Ticket Types
-0000REVISE0000
-#### **Pre-Early bird tickets**
+
+#### **Early bird tickets**
 
 General Admission: €29
 
-Conditions: Feb 7 - Mar 7 or first 50 tickets
-
-#### **Early birds tickets**
-
-General Admission: $70
-
-Conditions: Mar 7 - Jun 30 or first 200 tickets
+Conditions: until 19th October or first 50 tickets
 
 #### **Lazy birds tickets**
 
-General Admission: €49
+General Admission: €59
 
-Conditions: Jul 1 - Sep 30 or until tickets will be sold out
+Conditions: 20th October - 17th November or until tickets are sold out
 
-#### **EDU (Students/lecturers) Tickets**
+#### **Communitee Tickets**
 
-We offer a limited number of tickets at a discounted rate of $30 for full-time students and lecturers. To qualify, you need to be a student or a professor, faculty or staff at a higher education institution. Be aware that PhD students are not in the list. Once purchased, general admission tickets can't be converted to EDU tickets, and vice versa.
-
-When you check in at the conference, you'll need to provide a current student ID (active during the conference dates), transcript, credential, or other form of documentation which demonstrates that you’re qualified to receive this special rate. If you buy an academic ticket and can't provide academic documentation when you arrive at DevFest, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission.
+We offer a limited number of tickets at a discounted rate for partnering communities. In order to apply for those, please contact us at [gdgsofia@gmail.com ](mailto:gdgsofia@gmail.com ) and tell us about your community. These tickets are limited in number, and will be distributed among the first few relevant communities that contacted us.
 
 #### **Press Tickets**
 
-We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this [FORM]( https://goo.gl/forms/SmKHuksRw8sb0eoB2). If you have additional questions, please email [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua) for more information. Please note that we’ll have a limited number of press passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass. Our team will contact you if we’re able to accommodate your request.
-
-#### **I Love DFUA**
-
-General admission: $150
-
-Special tickets for real supporters of our conference. As we’re organizing the event on non-profit basis, additional resources will help us bring more cool speakers from all over the world and additionally invest into demo-zone, party, and other activities. Owners of “I love DFUA” tickets will get additional valuable benefits from our team.
-0000REVISE0000
+We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this [FORM]( https://goo.gl/forms/SmKHuksRw8sb0eoB2). If you have additional questions, please email [gdgsofia@gmail.com](mailto:gdgsofia@gmail.com ) for more information. Please note that we’ll have a limited number of press passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass. Our team will contact you if we’re able to accommodate your request.
   
 
 ### Registration Terms & Conditions
@@ -78,7 +63,7 @@ Special tickets for real supporters of our conference. As we’re organizing the
 - By registering for a ticket you acknowledge that your information will be used in accordance with [Tickets provider Terms of Service](https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-terms-of-service?lg=en_US). 
 - All registered attendees agree to allow GDG Sofia to contact them regarding their registration and attendance at the event. By registering for a ticket, you agree to allow GDG Sofia to communicate with you via email with information regarding the event. 
 - You agree to be solely responsible for your own safety, belongings and well-being while participating in GDG DevFest Sofia. Organizers won't be liable for your participation in GDG DevFest Sofia. 
-- Applicants and attendees can request the deletion of their registration data after the event ends by emailing [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua). 
+- Applicants and attendees can request the deletion of their registration data after the event ends by emailing [gdgsofia@gmail.com ](mailto:gdgsofia@gmail.com ). 
   
 
 ### More Registration Details
@@ -91,17 +76,7 @@ Special tickets for real supporters of our conference. As we’re organizing the
 
 ### Language
 
-All presentations at GDG DevFest Ukraine will be in English.
-
-### Pro Tips
-
-0000REVISE0000
-If you’re joining us in-person at National Palace of Culture, here are some useful tips to navigate your way through the conference:
-
-- Lost & Found: Will be located at the Conference Info Desk (Registration point) during event hours. Any items left overnight will be turned over to the Conference Security Office. 
-- Lunch: Attendees are invited to have a lunch at one of the many restaurants at King Cross shopping mall. 
-- After Hours: Day 1 afterparty you don’t want to miss! Attendees are invited to enjoy food, drinks, music, games, and more during the evening of October 12th (location will be published). Your attendee badge is required for entrance. 
-0000REVISE0000 
+All presentations at GDG DevFest Sofia will be in English.
 
 ### Badges & Badge Pick-up
 
@@ -115,7 +90,7 @@ Please note, you may not share, give, or otherwise provide your badge to anyone.
 
 ### Afterparty
 
-All registered attendees are invited to the afterparty on the evenings of October 12th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
+All registered attendees are invited to the afterparty on the evening of November 24th. The conference badges will be required for entry. Please join us for drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
 
   
 
