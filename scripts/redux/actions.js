@@ -168,6 +168,7 @@ const partnersActions = {
 
     firebase.firestore()
       .collection('partners')
+      .orderBy('order', 'asc')
       .get()
       .then((snaps) => Promise.all(
         snaps.docs.map((snap) => Promise.all([
