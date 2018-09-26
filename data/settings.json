@@ -143,19 +143,7 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/NT.Websites"
-      },
-      {
-        "name": "twitter",
-        "url": "https://www.facebook.com/NT.Websites"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.facebook.com/NT.Websites"
+        "url": "https://www.facebook.com/events/386278951907136/"
       }
     ],
     "share": [
@@ -173,7 +161,7 @@
       }
     ]
   },
-  "mailto": "venelinborisov5@gmail.com",
+  "mailto": "gdgsofia@gmail.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
