@@ -215,11 +215,11 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
+        "title": "GDG sofia",
         "description": "GDG Sofia is а group of enthusiasts that gather around Google technologies. We organize different events - seminars, conferences or just dine outs, and discuss the latests developments.",
         "callToAction": {
           "label": "Open team page",
-          "link": "/team"
+          "link": "https://www.meetup.com/GDG-Sofia/"
         }
       },
       {
