@@ -177,11 +177,11 @@
         "name": "facebook",
         "label": "Sign in with Facebook",
         "url": "https://www.facebook.com"
-      },
+      }
     ],
     "allowedProvidersUrl": [
       "https://accounts.google.com",
-      "https://www.facebook.com",
+      "https://www.facebook.com"
     ]
   },
   "contentLoaders": {
