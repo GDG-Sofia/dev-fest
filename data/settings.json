@@ -178,16 +178,10 @@
         "label": "Sign in with Facebook",
         "url": "https://www.facebook.com"
       },
-      {
-        "name": "twitter",
-        "label": "Sign in with Twitter",
-        "url": "https://twitter.com"
-      }
     ],
     "allowedProvidersUrl": [
       "https://accounts.google.com",
       "https://www.facebook.com",
-      "https://twitter.com"
     ]
   },
   "contentLoaders": {
