@@ -1,6 +1,7 @@
 {
   "basepath": "/",
   "url": "https://event-22212.firebaseio.com",
+  "analytics": "UA-126998921-1",
   "prefix": "/",
   "firebase": {
     "apiKey": "AIzaSyCXd1-cGg0n-EKy1sfelef3emldOCOKrXc",

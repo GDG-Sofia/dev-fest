@@ -29,6 +29,7 @@
       ga('require', 'pageVisibilityTracker');
 
       ga('send', 'pageview');
+      ga('set', 'anonymizeIp', true);
 
       let updateOnlineStatus = (event) => {
         ga('send', 'event', 'network', 'change', event.type);
