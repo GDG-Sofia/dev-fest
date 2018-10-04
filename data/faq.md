@@ -43,7 +43,7 @@ Conditions: 20th October - 17th November or until tickets are sold out
 
 #### **Press Tickets**
 
-We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this [FORM]( https://goo.gl/forms/SmKHuksRw8sb0eoB2). If you have additional questions, please email [gdgsofia@gmail.com](mailto:gdgsofia@gmail.com ) for more information. Please note that we’ll have a limited number of press passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass. Our team will contact you if we’re able to accommodate your request.
+We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this [FORM]( https://docs.google.com/forms/d/e/1FAIpQLSdLrPnV5z8ywKLDP4yZpw9REpKti_jfe65whcq3RVz87-NA7w/viewform). If you have additional questions, please email [gdgsofia@gmail.com](mailto:gdgsofia@gmail.com ) for more information. Please note that we’ll have a limited number of press passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass. Our team will contact you if we’re able to accommodate your request.
   
 
 ### Registration Terms & Conditions
