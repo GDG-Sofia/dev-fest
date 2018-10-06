@@ -28,8 +28,9 @@
       ga('require', 'urlChangeTracker');
       ga('require', 'pageVisibilityTracker');
 
-      ga('send', 'pageview');
       ga('set', 'anonymizeIp', true);
+      ga('send', 'pageview');
+
 
       let updateOnlineStatus = (event) => {
         ga('send', 'event', 'network', 'change', event.type);
