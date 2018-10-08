@@ -33,13 +33,19 @@ Once you've successfully paid for the ticket you’ll reach a confirmation scree
 
 General Admission: €29
 
-Conditions: until 19th October or first 50 tickets
+Conditions: until 14th October or first 50 tickets
+
+#### **Normal tickets**
+
+General Admission: €39
+
+Conditions: until 15th October to 31th October
 
 #### **Lazy birds tickets**
 
 General Admission: €59
 
-Conditions: 20th October - 17th November or until tickets are sold out
+Conditions: 1st November - 17th November or until tickets are sold out
 
 #### **Press Tickets**
 
